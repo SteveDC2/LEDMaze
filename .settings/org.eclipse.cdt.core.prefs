@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.510786085/TIVAWARE_DIR/delimiter=;
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.510786085/TIVAWARE_DIR/operation=append
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.510786085/TIVAWARE_DIR/value=D\:\\ti\\TivaWare_C_Series
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.510786085/append=true
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Debug.510786085/appendContributed=true
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Release.1979462209/TIVAWARE_DIR/delimiter=;
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Release.1979462209/TIVAWARE_DIR/operation=append
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Release.1979462209/TIVAWARE_DIR/value=D\:\\ti\\TivaWare_C_Series
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Release.1979462209/append=true
+environment/project/com.ti.ccstudio.buildDefinitions.TMS470.Release.1979462209/appendContributed=true
